@@ -1,0 +1,840 @@
+{
+  "groups": {
+    "A": [
+      "Mexico",
+      "Czechia",
+      "South Korea",
+      "South Africa"
+    ],
+    "B": [
+      "Switzerland",
+      "Canada",
+      "Bosnia & Herzegovina",
+      "Qatar"
+    ],
+    "C": [
+      "Brazil",
+      "Morocco",
+      "Scotland",
+      "Haiti"
+    ],
+    "D": [
+      "Australia",
+      "USA",
+      "Türkiye",
+      "Paraguay"
+    ],
+    "E": [
+      "Germany",
+      "Ecuador",
+      "Ivory Coast",
+      "Curacao"
+    ],
+    "F": [
+      "Netherlands",
+      "Japan",
+      "Sweden",
+      "Tunisia"
+    ],
+    "G": [
+      "Belgium",
+      "Egypt",
+      "Iran",
+      "New Zealand"
+    ],
+    "H": [
+      "Spain",
+      "Uruguay",
+      "Saudi Arabia",
+      "Cape Verde"
+    ],
+    "I": [
+      "France",
+      "Norway",
+      "Senegal",
+      "Iraq"
+    ],
+    "J": [
+      "Argentina",
+      "Austria",
+      "Algeria",
+      "Jordan"
+    ],
+    "K": [
+      "Portugal",
+      "Colombia",
+      "DR Congo",
+      "Uzbekistan"
+    ],
+    "L": [
+      "England",
+      "Croatia",
+      "Ghana",
+      "Panama"
+    ]
+  },
+  "teams": {
+    "Mexico": {
+      "iso": "mx",
+      "owner": "TBD",
+      "group": "A"
+    },
+    "Czechia": {
+      "iso": "cz",
+      "owner": "Drew",
+      "group": "A"
+    },
+    "South Korea": {
+      "iso": "kr",
+      "owner": "Bryn",
+      "group": "A"
+    },
+    "South Africa": {
+      "iso": "za",
+      "owner": "Phil",
+      "group": "A"
+    },
+    "Switzerland": {
+      "iso": "ch",
+      "owner": "TBD",
+      "group": "B"
+    },
+    "Canada": {
+      "iso": "ca",
+      "owner": "Julia M",
+      "group": "B"
+    },
+    "Bosnia & Herzegovina": {
+      "iso": "ba",
+      "owner": "Russell",
+      "group": "B"
+    },
+    "Qatar": {
+      "iso": "qa",
+      "owner": "Josh",
+      "group": "B"
+    },
+    "Brazil": {
+      "iso": "br",
+      "owner": "Alex",
+      "group": "C"
+    },
+    "Morocco": {
+      "iso": "ma",
+      "owner": "Russell",
+      "group": "C"
+    },
+    "Scotland": {
+      "iso": "gb-sct",
+      "owner": "Josh",
+      "group": "C"
+    },
+    "Haiti": {
+      "iso": "ht",
+      "owner": "Jess",
+      "group": "C"
+    },
+    "Australia": {
+      "iso": "au",
+      "owner": "Sohrab",
+      "group": "D"
+    },
+    "USA": {
+      "iso": "us",
+      "owner": "Drew",
+      "group": "D"
+    },
+    "Türkiye": {
+      "iso": "tr",
+      "owner": "Jose",
+      "group": "D"
+    },
+    "Paraguay": {
+      "iso": "py",
+      "owner": "Ishpreet",
+      "group": "D"
+    },
+    "Germany": {
+      "iso": "de",
+      "owner": "TBD",
+      "group": "E"
+    },
+    "Ecuador": {
+      "iso": "ec",
+      "owner": "Cait",
+      "group": "E"
+    },
+    "Ivory Coast": {
+      "iso": "ci",
+      "owner": "Ishpreet",
+      "group": "E"
+    },
+    "Curacao": {
+      "iso": "cw",
+      "owner": "Phil",
+      "group": "E"
+    },
+    "Netherlands": {
+      "iso": "nl",
+      "owner": "Julia M",
+      "group": "F"
+    },
+    "Japan": {
+      "iso": "jp",
+      "owner": "Jacob",
+      "group": "F"
+    },
+    "Sweden": {
+      "iso": "se",
+      "owner": "Alex",
+      "group": "F"
+    },
+    "Tunisia": {
+      "iso": "tn",
+      "owner": "Jose",
+      "group": "F"
+    },
+    "Belgium": {
+      "iso": "be",
+      "owner": "Jose",
+      "group": "G"
+    },
+    "Egypt": {
+      "iso": "eg",
+      "owner": "Joel",
+      "group": "G"
+    },
+    "Iran": {
+      "iso": "ir",
+      "owner": "Sohrab",
+      "group": "G"
+    },
+    "New Zealand": {
+      "iso": "nz",
+      "owner": "Richard",
+      "group": "G"
+    },
+    "Spain": {
+      "iso": "es",
+      "owner": "Sohrab",
+      "group": "H"
+    },
+    "Uruguay": {
+      "iso": "uy",
+      "owner": "Drew",
+      "group": "H"
+    },
+    "Saudi Arabia": {
+      "iso": "sa",
+      "owner": "Phil",
+      "group": "H"
+    },
+    "Cape Verde": {
+      "iso": "cv",
+      "owner": "Jacob",
+      "group": "H"
+    },
+    "France": {
+      "iso": "fr",
+      "owner": "Richard",
+      "group": "I"
+    },
+    "Norway": {
+      "iso": "no",
+      "owner": "Alex",
+      "group": "I"
+    },
+    "Senegal": {
+      "iso": "sn",
+      "owner": "Julia M",
+      "group": "I"
+    },
+    "Iraq": {
+      "iso": "iq",
+      "owner": "Cait",
+      "group": "I"
+    },
+    "Argentina": {
+      "iso": "ar",
+      "owner": "Cait",
+      "group": "J"
+    },
+    "Austria": {
+      "iso": "at",
+      "owner": "Jess",
+      "group": "J"
+    },
+    "Algeria": {
+      "iso": "dz",
+      "owner": "Jacob",
+      "group": "J"
+    },
+    "Jordan": {
+      "iso": "jo",
+      "owner": "Russell",
+      "group": "J"
+    },
+    "Portugal": {
+      "iso": "pt",
+      "owner": "Bryn",
+      "group": "K"
+    },
+    "Colombia": {
+      "iso": "co",
+      "owner": "Joel",
+      "group": "K"
+    },
+    "DR Congo": {
+      "iso": "cd",
+      "owner": "Ishpreet",
+      "group": "K"
+    },
+    "Uzbekistan": {
+      "iso": "uz",
+      "owner": "Jess",
+      "group": "K"
+    },
+    "England": {
+      "iso": "gb-eng",
+      "owner": "Josh",
+      "group": "L"
+    },
+    "Croatia": {
+      "iso": "hr",
+      "owner": "Bryn",
+      "group": "L"
+    },
+    "Ghana": {
+      "iso": "gh",
+      "owner": "Joel",
+      "group": "L"
+    },
+    "Panama": {
+      "iso": "pa",
+      "owner": "Richard",
+      "group": "L"
+    }
+  },
+  "owners": {
+    "Alex": {
+      "color": "#ff6b6b",
+      "teams": [
+        "Sweden",
+        "Norway",
+        "Brazil"
+      ]
+    },
+    "Bryn": {
+      "color": "#ffd24a",
+      "teams": [
+        "Portugal",
+        "Croatia",
+        "South Korea"
+      ]
+    },
+    "Cait": {
+      "color": "#5fcf8f",
+      "teams": [
+        "Iraq",
+        "Argentina",
+        "Ecuador"
+      ]
+    },
+    "Drew": {
+      "color": "#4dabf7",
+      "teams": [
+        "USA",
+        "Czechia",
+        "Uruguay"
+      ]
+    },
+    "Ishpreet": {
+      "color": "#f783ac",
+      "teams": [
+        "Paraguay",
+        "Ivory Coast",
+        "DR Congo"
+      ]
+    },
+    "Jacob": {
+      "color": "#ffa94d",
+      "teams": [
+        "Japan",
+        "Cape Verde",
+        "Algeria"
+      ]
+    },
+    "Jess": {
+      "color": "#38d9a9",
+      "teams": [
+        "Uzbekistan",
+        "Haiti",
+        "Austria"
+      ]
+    },
+    "Joel": {
+      "color": "#b197fc",
+      "teams": [
+        "Ghana",
+        "Egypt",
+        "Colombia"
+      ]
+    },
+    "Jose": {
+      "color": "#ff922b",
+      "teams": [
+        "Belgium",
+        "Türkiye",
+        "Tunisia"
+      ]
+    },
+    "Josh": {
+      "color": "#74c0fc",
+      "teams": [
+        "England",
+        "Scotland",
+        "Qatar"
+      ]
+    },
+    "Julia M": {
+      "color": "#a9e34b",
+      "teams": [
+        "Senegal",
+        "Netherlands",
+        "Canada"
+      ]
+    },
+    "Phil": {
+      "color": "#e599f7",
+      "teams": [
+        "Saudi Arabia",
+        "Curacao",
+        "South Africa"
+      ]
+    },
+    "Richard": {
+      "color": "#f06595",
+      "teams": [
+        "France",
+        "Panama",
+        "New Zealand"
+      ]
+    },
+    "Russell": {
+      "color": "#22b8cf",
+      "teams": [
+        "Morocco",
+        "Bosnia & Herzegovina",
+        "Jordan"
+      ]
+    },
+    "Sohrab": {
+      "color": "#94d82d",
+      "teams": [
+        "Iran",
+        "Australia",
+        "Spain"
+      ]
+    },
+    "TBD": {
+      "color": "#ffa8a8",
+      "teams": [
+        "Mexico",
+        "Switzerland",
+        "Germany"
+      ]
+    }
+  },
+  "knockout": [
+    {
+      "id": 73,
+      "round": "R32",
+      "home": {
+        "pos": "R",
+        "group": "A"
+      },
+      "away": {
+        "pos": "R",
+        "group": "B"
+      }
+    },
+    {
+      "id": 74,
+      "round": "R32",
+      "home": {
+        "pos": "W",
+        "group": "E"
+      },
+      "away": {
+        "pos": "3",
+        "groups": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "F"
+        ]
+      }
+    },
+    {
+      "id": 75,
+      "round": "R32",
+      "home": {
+        "pos": "W",
+        "group": "F"
+      },
+      "away": {
+        "pos": "R",
+        "group": "C"
+      }
+    },
+    {
+      "id": 76,
+      "round": "R32",
+      "home": {
+        "pos": "W",
+        "group": "C"
+      },
+      "away": {
+        "pos": "R",
+        "group": "F"
+      }
+    },
+    {
+      "id": 77,
+      "round": "R32",
+      "home": {
+        "pos": "W",
+        "group": "I"
+      },
+      "away": {
+        "pos": "3",
+        "groups": [
+          "C",
+          "D",
+          "F",
+          "G",
+          "H"
+        ]
+      }
+    },
+    {
+      "id": 78,
+      "round": "R32",
+      "home": {
+        "pos": "R",
+        "group": "E"
+      },
+      "away": {
+        "pos": "R",
+        "group": "I"
+      }
+    },
+    {
+      "id": 79,
+      "round": "R32",
+      "home": {
+        "pos": "W",
+        "group": "A"
+      },
+      "away": {
+        "pos": "3",
+        "groups": [
+          "C",
+          "E",
+          "F",
+          "H",
+          "I"
+        ]
+      }
+    },
+    {
+      "id": 80,
+      "round": "R32",
+      "home": {
+        "pos": "W",
+        "group": "L"
+      },
+      "away": {
+        "pos": "3",
+        "groups": [
+          "E",
+          "H",
+          "I",
+          "J",
+          "K"
+        ]
+      }
+    },
+    {
+      "id": 81,
+      "round": "R32",
+      "home": {
+        "pos": "W",
+        "group": "D"
+      },
+      "away": {
+        "pos": "3",
+        "groups": [
+          "B",
+          "E",
+          "F",
+          "I",
+          "J"
+        ]
+      }
+    },
+    {
+      "id": 82,
+      "round": "R32",
+      "home": {
+        "pos": "W",
+        "group": "G"
+      },
+      "away": {
+        "pos": "3",
+        "groups": [
+          "A",
+          "E",
+          "H",
+          "I",
+          "J"
+        ]
+      }
+    },
+    {
+      "id": 83,
+      "round": "R32",
+      "home": {
+        "pos": "R",
+        "group": "K"
+      },
+      "away": {
+        "pos": "R",
+        "group": "L"
+      }
+    },
+    {
+      "id": 84,
+      "round": "R32",
+      "home": {
+        "pos": "W",
+        "group": "H"
+      },
+      "away": {
+        "pos": "R",
+        "group": "J"
+      }
+    },
+    {
+      "id": 85,
+      "round": "R32",
+      "home": {
+        "pos": "W",
+        "group": "B"
+      },
+      "away": {
+        "pos": "3",
+        "groups": [
+          "E",
+          "F",
+          "G",
+          "I",
+          "J"
+        ]
+      }
+    },
+    {
+      "id": 86,
+      "round": "R32",
+      "home": {
+        "pos": "W",
+        "group": "J"
+      },
+      "away": {
+        "pos": "R",
+        "group": "H"
+      }
+    },
+    {
+      "id": 87,
+      "round": "R32",
+      "home": {
+        "pos": "W",
+        "group": "K"
+      },
+      "away": {
+        "pos": "3",
+        "groups": [
+          "D",
+          "E",
+          "I",
+          "J",
+          "L"
+        ]
+      }
+    },
+    {
+      "id": 88,
+      "round": "R32",
+      "home": {
+        "pos": "R",
+        "group": "D"
+      },
+      "away": {
+        "pos": "R",
+        "group": "G"
+      }
+    },
+    {
+      "id": 89,
+      "round": "R16",
+      "home": {
+        "win": 74
+      },
+      "away": {
+        "win": 77
+      }
+    },
+    {
+      "id": 90,
+      "round": "R16",
+      "home": {
+        "win": 73
+      },
+      "away": {
+        "win": 75
+      }
+    },
+    {
+      "id": 91,
+      "round": "R16",
+      "home": {
+        "win": 76
+      },
+      "away": {
+        "win": 78
+      }
+    },
+    {
+      "id": 92,
+      "round": "R16",
+      "home": {
+        "win": 79
+      },
+      "away": {
+        "win": 80
+      }
+    },
+    {
+      "id": 93,
+      "round": "R16",
+      "home": {
+        "win": 83
+      },
+      "away": {
+        "win": 84
+      }
+    },
+    {
+      "id": 94,
+      "round": "R16",
+      "home": {
+        "win": 81
+      },
+      "away": {
+        "win": 82
+      }
+    },
+    {
+      "id": 95,
+      "round": "R16",
+      "home": {
+        "win": 86
+      },
+      "away": {
+        "win": 88
+      }
+    },
+    {
+      "id": 96,
+      "round": "R16",
+      "home": {
+        "win": 85
+      },
+      "away": {
+        "win": 87
+      }
+    },
+    {
+      "id": 97,
+      "round": "QF",
+      "home": {
+        "win": 89
+      },
+      "away": {
+        "win": 90
+      }
+    },
+    {
+      "id": 98,
+      "round": "QF",
+      "home": {
+        "win": 93
+      },
+      "away": {
+        "win": 94
+      }
+    },
+    {
+      "id": 99,
+      "round": "QF",
+      "home": {
+        "win": 91
+      },
+      "away": {
+        "win": 92
+      }
+    },
+    {
+      "id": 100,
+      "round": "QF",
+      "home": {
+        "win": 95
+      },
+      "away": {
+        "win": 96
+      }
+    },
+    {
+      "id": 101,
+      "round": "SF",
+      "home": {
+        "win": 97
+      },
+      "away": {
+        "win": 98
+      }
+    },
+    {
+      "id": 102,
+      "round": "SF",
+      "home": {
+        "win": 99
+      },
+      "away": {
+        "win": 100
+      }
+    },
+    {
+      "id": 104,
+      "round": "Final",
+      "home": {
+        "win": 101
+      },
+      "away": {
+        "win": 102
+      }
+    }
+  ]
+}
