@@ -836,5 +836,42 @@
         "win": 102
       }
     }
+  ],
+  "prizes": [
+    {
+      "key": "winner",
+      "label": "Winner",
+      "pct": 35
+    },
+    {
+      "key": "runnerup",
+      "label": "Runner Up",
+      "pct": 15
+    },
+    {
+      "key": "fastestGoal",
+      "label": "Fastest Goal",
+      "pct": 10
+    },
+    {
+      "key": "mostRed",
+      "label": "Most Red Cards",
+      "pct": 10
+    },
+    {
+      "key": "mostConceded",
+      "label": "Most Goals Conceded",
+      "pct": 10
+    },
+    {
+      "key": "worstGD",
+      "label": "Worst Goal Difference",
+      "pct": 10
+    },
+    {
+      "key": "firstOwnGoal",
+      "label": "First Own Goal",
+      "pct": 10
+    }
   ]
 }
